@@ -1,7 +1,6 @@
  🩺 Health Monitoring and Anomaly Detection for Elderly Patients
 
 **DSC 291 – Ubiquitous Computing**
-Keertana Kappuram, Shreyasi Nath, Sreetama Chowdhury
 
 ---
 
